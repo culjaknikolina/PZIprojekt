@@ -9,4 +9,4 @@ Sustav omoguæava ugostitelju da dopre lakše do potencijalnih gostiju i da sazna 
 Omoguæava mu bolju organizaciju posla, izbjegavanje gužvi i lakše promoviranje vlastite ponude, 
 a gostu omoguæava da vidi što je na meniju bez da mora doæi u restoran, lako pravljenje rezervacije, te pregled recenzija.
 
-Projekt radili: Gabrijel Batista i Martina Èuljak
+Projekt radili: Gabrijel Batista i Nikolina Culjak
