@@ -1,0 +1,12 @@
+Vizija:
+
+Restorani ne mogu sa svojim dnevnim menijem odgovarati svakome svaki dan, 
+niti im gosti mogu znati ima li u odreðenom trenutku mjesta u restoranu.
+Restoran bi mogao bolje raditi kada bi potencijalni gosti toèno znali kada je i koje mjesto slobodno,
+te što je na meniju taj dan. Ova web aplkiacija je namijenjena za restorane koji žele unaprijediti svoje poslovanje 
+direktnom komunikacijom sa potencijalnim gostima.
+Sustav omoguæava ugostitelju da dopre lakše do potencijalnih gostiju i da sazna njihove želje, te da radi u skladu s njima.
+Omoguæava mu bolju organizaciju posla, izbjegavanje gužvi i lakše promoviranje vlastite ponude, 
+a gostu omoguæava da vidi što je na meniju bez da mora doæi u restoran, lako pravljenje rezervacije, te pregled recenzija.
+
+Projekt radili: Gabrijel Batista i Martina Èuljak
